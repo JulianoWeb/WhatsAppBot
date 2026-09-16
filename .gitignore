@@ -1,0 +1,10 @@
+node_modules/
+session/
+.env
+.env.*
+*.log
+*.key
+*.pem
+credentials.json
+config.json
+.wwebjs_cache/
