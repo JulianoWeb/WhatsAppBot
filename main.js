@@ -1,7 +1,7 @@
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 
-const LINK = 'https://www.xvideos.com';
+const LINK = 'https://www.youtube.com';
 const DONO = 'Juliano.web';
 
 const welcomeStatus = new Map();
